@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=CX-BdDHW0Ho - Pranav Karthik
 - SwiftUI FrameWork
 - Any Iphone
 - XCode 13.4.1
+- Ios 15.5
 
 ## ✍️ Author
 - Bui Thanh Huy (Aaron Bui)
