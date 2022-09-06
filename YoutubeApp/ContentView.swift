@@ -8,9 +8,9 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var showYoutube = false
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        VideoView(videoID: "Go8nTmfrQd8")
     }
 }
 
